@@ -1,1 +1,9 @@
-# FJgeladao
+FJ Geladão é uma aplicação web completa projetada para oferecer uma experiência excepcional aos clientes que buscam uma ampla variedade de bebidas geladas. A plataforma disponibiliza um catálogo extenso de produtos, incluindo cervejas, refrigerantes, águas, sucos, energéticos, destilados e vinhos, todos apresentados com informações detalhadas e visuais atraentes.
+
+A aplicação possui uma interface amigável, com navegação suave e opções dinâmicas de filtro, permitindo que os usuários encontrem facilmente os produtos por categoria. Os clientes podem adicionar itens a um carrinho virtual, selecionar quantidades e opções de embalagem (como unidades individuais ou fardos), e visualizar atualizações em tempo real dos totais do carrinho, incluindo taxas de entrega.
+
+Para o gerenciamento de pedidos, o FJ Geladão inclui um painel administrativo robusto que permite que pessoas autorizadas façam login seguro e gerenciem os pedidos de forma eficiente. Os administradores podem visualizar listas detalhadas de pedidos, filtrar por status e data, atualizar o status dos pedidos em várias etapas (pendente, preparando, pronto, entregue) e exportar dados para relatórios. Além disso, o painel suporta o gerenciamento de produtos, permitindo a adição, edição e remoção de produtos com controle de preço e categoria.
+
+O processo de finalização do pedido integra-se perfeitamente com o WhatsApp, possibilitando que os clientes confirmem e enviem seus pedidos diretamente pela plataforma de mensagens, garantindo uma comunicação rápida e conveniente. O sistema também suporta opções de entrega e retirada, com campos para endereço e método de pagamento adaptados a cada escolha.
+
+O FJ Geladão é construído com tecnologias web modernas, enfatizando design responsivo, animações suaves e interações intuitivas. O objetivo é simplificar o processo de pedido de bebidas, aumentar a satisfação do cliente e proporcionar uma gestão eficiente para o negócio.
